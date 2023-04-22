@@ -2,4 +2,4 @@
 
 Collaborators are:
 1. Solomon Odunusi
-Contributor:Nafisat Adekunle[Pheenah] (https://github.com/Pheenah)
+2. Nafisat Adekunle[Pheenah] (https://github.com/Pheenah)
