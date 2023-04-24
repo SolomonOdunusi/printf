@@ -27,7 +27,7 @@ int i = 0;
 	if (width > 1)
 	{
 	buffer[BUFF_SIZE - 1] = '\0';
-	while (i = 0, i < width - 1)
+		while (i = 0, i < width - 1)
 		i++;
 		buffer[BUFF_SIZE - i - 2] = padd;
 
