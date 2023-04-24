@@ -53,6 +53,7 @@ int flags, char flag_ch, int width, int precision, int size)
 	int i = BUFF_SIZE - 2;
 	unsigned long int num = va_arg(types, unsigned long int);
 	unsigned long int init_num = num;
+
 	UNUSED(width);
 
 	num = convert_size_unsgnd(num, size);
