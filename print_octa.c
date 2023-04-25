@@ -2,7 +2,7 @@
 
 /**
 * print_octal - Prints an unsigned number in octal notation
-* @types: List of arguments
+* @types: Lista of arguments
 * @buffer: Buffer array to handle print
 * @flags: Calculates active flags
 * @width: get width
